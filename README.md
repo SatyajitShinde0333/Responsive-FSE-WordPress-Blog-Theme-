@@ -1,16 +1,12 @@
-# Facile-WordPress
+# Blog Web Theme -WordPress
 
-**English** | [简体中文](README.zh.md)
 
-Facile is a clean and minimalist blog theme designed for both WordPress and Typecho. It is also the theme I currently use for my own blog.
 
-You are now viewing the WordPress version of the theme. If you're looking for the Typecho version, you can find it at [https://github.com/changbin1997/Facile](https://github.com/changbin1997/Facile).
+Facile is a clean and minimalist blog theme designed for both WordPress. It is also the theme I currently use for my own blog.
 
-## Related Links
 
-Theme Demo: [https://www.misterma.com/](https://www.misterma.com/)
 
-Theme Download: [https://github.com/changbin1997/facile-wordpress/releases](https://github.com/changbin1997/facile-wordpress/releases)
+
 
 ## Screenshots
 
